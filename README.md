@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td style="vertical-align:top;"><strong>pure-maccms.json</strong></td>
-      <td style="vertical-align:top;">本地文件，点击文件图标选择配置</td>
+      <td style="vertical-align:top;">本地文件（当前在同级目录），点击文件图标选择配置</td>
       <td style="vertical-align:top;">4 站 / 约 50 万条</td>
       <td style="vertical-align:top;">一般</td>
     </tr>
