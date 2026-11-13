@@ -4,7 +4,7 @@
 
 **安装包下载地址**：https://github.com/FongMi/Release/releases
 
-> **手机安装包选择**：mobile-arm64_v8a.apk
+> **手机安装包选择**：mobile-arm64_v8a.apk（也可以直接安装同级目录下的mobile-arm64_v8a-5.8.7.apk）
 
 **下方片源实测可用，不需要 VPN**｜更新时间：2026-11-12
 
@@ -52,6 +52,9 @@
 </table>
 
 
-> **填写方法**：App底部工具栏设置（齿轮）→ 点播（最上面） → 弹窗输入链接或者选择文件 → 首页直接搜索
+> **片源配置方法**：App底部工具栏设置（齿轮）→ 点播（最上面） → 弹窗输入链接或者选择文件 → 首页直接搜索
+<img width="386" height="855" alt="image" src="https://github.com/user-attachments/assets/64bc1f77-ce1d-45b0-943b-b2e11ad9105c" />
+
 
 > **补充说明**：有些多站点的点击点播右侧的房子图标切换可用站点即可，当前搜不到资源可以切换片源或者站点
+<img width="386" height="856" alt="image" src="https://github.com/user-attachments/assets/7de68f58-fc3c-420b-85a6-99f4bed0b250" />
